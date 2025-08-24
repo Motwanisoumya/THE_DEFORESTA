@@ -13,4 +13,4 @@ def erase_directory_contents(dir_path):
             print(f'Failed to delete {file_path}. Reason: {e}')
 
 # Usage
-erase_directory_contents('./frontend/static/display')
+erase_directory_contents('./frontend/static/display')   
